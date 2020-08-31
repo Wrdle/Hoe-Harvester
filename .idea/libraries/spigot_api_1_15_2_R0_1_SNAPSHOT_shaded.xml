@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spigot-api-1.15.2-R0.1-SNAPSHOT-shaded">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Coding/Mc Development/Spigot/spigot-api-1.15.2-R0.1-SNAPSHOT-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://hub.spigotmc.org/javadocs/spigot/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

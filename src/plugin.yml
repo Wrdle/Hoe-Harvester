@@ -1,0 +1,12 @@
+name: HoeHarvester
+description: Harvests crops easily
+version: 1.0
+author: Wrdle
+main: com.mattdag.hoeHarvester.Main
+api-version: 1.15
+commands:
+  mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: myplugin.mycommand
+    permission-message: You don't have the myplugin.mycommand permission.

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hoe Harvester" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7cbca53-511f-4064-806e-d0a7a4ebdb0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1ZhFCuY0BUetLePuHxWj2oLyo98" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="hoeharvester" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="Y:/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mattd\Desktop\hoeHarvester\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7cbca53-511f-4064-806e-d0a7a4ebdb0b" name="Default Changelist" comment="" />
+      <created>1585283295482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585283295482</updated>
+      <workItem from="1585283301046" duration="21920000" />
+      <workItem from="1585491288209" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1585283654463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585283654463" />
+    <state x="1031" y="549" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585285868970">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1031" y="549" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585285868970" />
+    <state x="1081" y="453" key="FileChooserDialogImpl" timestamp="1585293874063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1081" y="453" key="FileChooserDialogImpl/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585293874063" />
+    <state x="781" y="341" key="SettingsEditor" timestamp="1585293974990">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="341" key="SettingsEditor/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585293974990" />
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1585491289013">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585491289013" />
+    <state x="684" y="364" key="new project wizard" timestamp="1585283481179">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="684" y="364" key="new project wizard/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585283481179" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1585305613009">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.190.1920.1160/0.0.2560.1400/2560.84.1920.1160@0.0.2560.1400" timestamp="1585305613009" />
+  </component>
+</project>

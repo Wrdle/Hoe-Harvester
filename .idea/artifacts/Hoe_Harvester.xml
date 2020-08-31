@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hoe Harvester">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hoe_Harvester</output-path>
+    <root id="archive" name="Hoe Harvester.jar">
+      <element id="module-output" name="hoeHarvester" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
